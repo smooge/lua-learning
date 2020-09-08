@@ -22,6 +22,13 @@ function print_hex_types()
    print("")
 end
 
+function print_math()
+   X=13
+   Y=15.0
+   print X+Y
+end
+
 
 print_num_types()
 print_hex_types()
+print_math()
